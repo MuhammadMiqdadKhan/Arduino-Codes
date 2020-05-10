@@ -8,7 +8,6 @@ void loop() {
   // put your main code here, to run repeatedly:
 int state = digitalRead(11);
 if(state==HIGH){
-  Serial.println("
+  Serial.println("");
 }
-
 }
